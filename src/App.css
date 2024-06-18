@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: poppins;
+}
+
+.wrapper-first {
+  background-color: black;
+  height: 100vh;
+  color: white;
+}
+
+.wrapper-sec {
+  height: 100vh;
+}
+
+.btn-ganteng {
+  padding: 8px 12px;
+  background-color: blue;
+  color: red;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
